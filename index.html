@@ -282,7 +282,7 @@
       <h2>Get In Touch With Me</h2>
       <div class="contact-form-container">
         <div class="contact-form">
-          <form method="POST" name="contact" data-netlify="true">
+          <form method="POST" name="contact" data-netlify-recaptcha="true" data-netlify="true">
             <div class="form-control">
               <label for="name">Name</label>
               <input
@@ -317,6 +317,7 @@
                 required
               ></textarea>
             </div>
+            <div class="form-control" data-netlify-recaptcha="true"></div>
             <input
               type="submit"
               value="Submit"
