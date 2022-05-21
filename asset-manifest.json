@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.f48baa53.css",
-    "main.js": "/static/js/main.b45a35ba.js",
+    "main.css": "/static/css/main.25df9ee6.css",
+    "main.js": "/static/js/main.fa71ac48.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/photo-1431578500526-4d9613015464.jpeg": "/static/media/photo-1431578500526-4d9613015464.0c528dc7193509e0eef6.jpeg",
     "static/media/icons8-instagram.gif": "/static/media/icons8-instagram.be0aee7cf4f2d36d8bc4.gif",
-    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
-    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
     "static/media/last.png": "/static/media/last.f8d37565152615579431.png",
     "static/media/signin.svg": "/static/media/signin.9cdb60bb5a9eab772c42744cfba5b624.svg",
     "static/media/icons8-twitter-circled.gif": "/static/media/icons8-twitter-circled.086d4a409fe73f9804d7.gif",
@@ -18,12 +18,12 @@
     "static/media/icons8-github.gif": "/static/media/icons8-github.7d909b64afc22f8b5ad3.gif",
     "static/media/icons8-upward-arrow.gif": "/static/media/icons8-upward-arrow.0449b724cbacd4be901d.gif",
     "index.html": "/index.html",
-    "main.f48baa53.css.map": "/static/css/main.f48baa53.css.map",
-    "main.b45a35ba.js.map": "/static/js/main.b45a35ba.js.map",
+    "main.25df9ee6.css.map": "/static/css/main.25df9ee6.css.map",
+    "main.fa71ac48.js.map": "/static/js/main.fa71ac48.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f48baa53.css",
-    "static/js/main.b45a35ba.js"
+    "static/css/main.25df9ee6.css",
+    "static/js/main.fa71ac48.js"
   ]
 }
